@@ -18,7 +18,7 @@ Once you have added a task you also have the option to delete the task by simply
 
 Here's an screenshot of the app after you've added a task. The task in this screenshot is just a sample:
 
-![Screenshot of the app](https://www.dropbox.com/s/mg1lysleombzaw6/image0%20%281%29.png?dl=0)
+![Screenshot of the app](https://drive.google.com/file/d/1s9A_hXCQ5CGz8fo-MTK3RMGyuqmfN_os/view?usp=sharing)
 
 #### Footnote
 
